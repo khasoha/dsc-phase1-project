@@ -1,7 +1,7 @@
 # Title : Microsoft Movie studio Needs Analysis
 
 **Authors**: Cynthia Adisa
-![8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1920x706](./images/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1920x706.jpg)
+![8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1920x706](./8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1920x706.jpg)
 
 
 ## Overview
