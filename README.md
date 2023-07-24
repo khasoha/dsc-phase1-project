@@ -53,11 +53,11 @@ For any additional questions, please contact **Name: Cynthia Adisa   email:Cynth
 Describe the structure of your repository and its contents, for example:
 
 ```
-├── data                               
-└── images 
-├── __init__.py   
-├── Microsoft Movie studio Needs Analysis presentation.pdf                                                   
+├── 8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1920x706.jpg
+├── Microsoft Movie Studio Needs Analysis presentation.pdf
+├── README                         
+├── __init__.py
+├── image.png                                                  
 ├── phase_1_project.ipynb
-├── README 
         
 
